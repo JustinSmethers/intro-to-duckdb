@@ -1,2 +1,2 @@
-# Intro to DuckDB
+# Accelerating Python Data Analysis with DuckDB
 These scripts were created for a presentation titled 'Accelerating Python Data Analysis with DuckDB' for the Michigan Python meetup group. I'll upload the slides and video of the presentation once they are available.
